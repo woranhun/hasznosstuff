@@ -1,0 +1,5 @@
+#!/bin/sh
+rclone sync /home/woranhun/onedrive/upload onedrive:linux/upload --verbose
+rclone sync onedrive:linux/download /home/woranhun/onedrive/download --verbose
+echo "OK"
+read input

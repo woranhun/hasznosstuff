@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=OneDriveSync
+Comment=Sync to one drive
+Exec=/usr/bin/synconedrive
+Terminal=true
+Type=Application
+Categories=Utility;Application;
