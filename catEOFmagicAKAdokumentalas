@@ -1,0 +1,8 @@
+cat <<EOF> valami.yml
+
+......
+sok szar
+....
+
+
+EOF
