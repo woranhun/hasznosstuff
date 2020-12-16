@@ -1,2 +1,1 @@
-# hasznosstuff
-mindenkacat
+# Some simple magic tools
